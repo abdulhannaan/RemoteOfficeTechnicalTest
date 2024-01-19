@@ -1,0 +1,14 @@
+D:\Clients\RemoteOfficeTechnicalTest\bin\Debug\RemoteOfficeTechnicalTest.exe.config
+D:\Clients\RemoteOfficeTechnicalTest\bin\Debug\RemoteOfficeTechnicalTest.exe
+D:\Clients\RemoteOfficeTechnicalTest\bin\Debug\RemoteOfficeTechnicalTest.pdb
+D:\Clients\RemoteOfficeTechnicalTest\obj\Debug\RemoteOfficeTechnicalTest.csproj.AssemblyReference.cache
+D:\Clients\RemoteOfficeTechnicalTest\obj\Debug\RemoteOfficeTechnicalTest.csproj.CoreCompileInputs.cache
+D:\Clients\RemoteOfficeTechnicalTest\obj\Debug\RemoteOfficeTechnicalTest.exe
+D:\Clients\RemoteOfficeTechnicalTest\obj\Debug\RemoteOfficeTechnicalTest.pdb
+D:\Workspace\RemoteOfficeTechnicalTest\obj\Debug\RemoteOfficeTechnicalTest.csproj.AssemblyReference.cache
+D:\Workspace\RemoteOfficeTechnicalTest\obj\Debug\RemoteOfficeTechnicalTest.csproj.CoreCompileInputs.cache
+D:\Workspace\RemoteOfficeTechnicalTest\obj\Debug\RemoteOfficeTechnicalTest.exe
+D:\Workspace\RemoteOfficeTechnicalTest\obj\Debug\RemoteOfficeTechnicalTest.pdb
+D:\Workspace\RemoteOfficeTechnicalTest\bin\Debug\RemoteOfficeTechnicalTest.exe.config
+D:\Workspace\RemoteOfficeTechnicalTest\bin\Debug\RemoteOfficeTechnicalTest.exe
+D:\Workspace\RemoteOfficeTechnicalTest\bin\Debug\RemoteOfficeTechnicalTest.pdb
